@@ -9,6 +9,6 @@ United Kingdom       London
 Germany              Berlin
 Australia            Canberra
 New Zealand          Wellington
-India                
-Japan                
-Thailand             
+India                New Delhi
+Japan                Tokyo
+Thailand             Bangkok
