@@ -1,7 +1,9 @@
-Apples
-Mangoes
-Pineapples
-Grapes
+Fruits              Taste
+-------------       ---------------------------
+Apples              Sweet
+Mangoes             Sweet
+Pineapples          Sour
+Grapes              Sweet
 Guava
 Banana
 Cherry
