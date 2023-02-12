@@ -1,20 +1,13 @@
-Italy
-France
-Spain
-Greece
-United States
-United Kingdom
-Germany
-Australia
-New Zealand
-India
-Japan
-Thailand
-Mexico
-Canada
-South Africa
-Peru
-Morocco
-Laos
-Indonesia
-Costa Rica
+Country             Capital
+-----------        -------------
+Italy                Rome
+France               Paris
+Spain                Madrid
+Greece               Athens
+United States        Washington, D.C.
+United Kingdom       London
+Germany              Berlin
+Australia            Canberra
+New Zealand          Wellington
+India                New Delhi
+Japan                Tokyo
