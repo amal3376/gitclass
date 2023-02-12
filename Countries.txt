@@ -11,4 +11,3 @@ Australia            Canberra
 New Zealand          Wellington
 India                New Delhi
 Japan                Tokyo
-Thailand             Bangkok
