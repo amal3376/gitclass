@@ -4,19 +4,19 @@ Apples              Sweet
 Mangoes             Sweet
 Pineapples          Sour
 Grapes              Sweet
-Guava
-Banana
-Cherry
-Kiwi
-Coconut
-Jackfruit
-Pear
-Plum
-Papaya
-Watermelon
-Peach
-Lemon
-Lychen
-Pomegranate
-Orange
-Strawberry
+Guava               Sweet
+Banana              Sweet
+Cherry              Sweet
+Kiwi                Sour
+Coconut             Watery
+Jackfruit           Fleshy
+Pear                Sweet
+Plum                Sweet
+Papaya              Sweet
+Watermelon          Watery
+Peach               Sweet
+Lemon               Sour
+Lychen              Fleshy
+Pomegranate         Sweet
+Orange              Sour
+Strawberry          Sweet
